@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "marauder.config.js",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "typescript": "^3.1.6",
+    "webpack-marauder": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "marax dev",
+    "build": "marax build",
+    "dll": "marax dll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happybang/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happybang/react/issues"
+  },
+  "homepage": "https://github.com/happybang/react#readme"
+}
